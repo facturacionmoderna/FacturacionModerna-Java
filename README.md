@@ -9,6 +9,7 @@ El ejemplo esta hecho con el IDE Netbeans 7.1
 * Clase genérica lista para ser implementada en tu proyecto.
 * Timbrado de XML CFDI versión 3.2 
 * Timbrado de un archivo de texto simple
+* Cancelado de comprobantes
 
 
 
@@ -32,7 +33,7 @@ Ejecución del ejemplo de cancelado
 4.- Ejecutar el programa
 ```
 
-## Ejemplo de uso
+## Dudas
 Si tiene alguna duda sobre la implementación de está clase, puede contactarnos a: 
 
 desarrollo@facturacionmoderna.com 
