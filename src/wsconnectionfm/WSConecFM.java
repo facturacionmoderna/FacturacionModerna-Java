@@ -148,6 +148,7 @@ public class WSConecFM {
 
           wsresponse = "Error: " + strCode + "\n";
           wsresponse = wsresponse + "Mensaje: " + strMessage;
+          this.error = true;
 
         }
       } else {
