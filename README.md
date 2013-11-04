@@ -4,7 +4,7 @@ Clase Genérica para realizar el timbrado y cancelación de un CFDI con [Factura
 El ejemplo esta hecho con el IDE Netbeans 7.1
 
 
-## Carácteristicas
+## Características
 
 * Clase genérica lista para ser implementada en tu proyecto.
 * Timbrado de XML CFDI versión 3.2 
