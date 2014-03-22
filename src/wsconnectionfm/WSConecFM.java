@@ -74,7 +74,7 @@ public class WSConecFM {
       try {
         BufferedReader buffer = new BufferedReader(new InputStreamReader(new FileInputStream(layout), "utf-8"));
         while ((linea = buffer.readLine()) != null)   {
-          strLayout = strLayout + linea;
+          strLayout = strLayout + linea + "\n";
         }
       } catch(Exception ex) {return "Error al leer el layout";}
       layout = strLayout;
